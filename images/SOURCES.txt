@@ -1,0 +1,16 @@
+This folder is where your local images live once you cut ties with WordPress.
+
+Right now the site loads two images straight from your WordPress CDN so it
+works the moment you deploy. To make the site fully self-contained, download
+these and save them here with the filenames shown, then follow the swap steps
+in the main README.md:
+
+1. logo.jpg   <-  https://i0.wp.com/forensicpsychfl.com/wp-content/uploads/2023/12/cropped-fm-192-small-logo-head-only.jpg?fit=141%2C152&ssl=1
+2. hero.webp  <-  https://i0.wp.com/forensicpsychfl.com/wp-content/uploads/2025/11/Whisk_eb5891fddda9142a21744d71f75704aedr.webp?resize=1200%2C655&ssl=1
+
+(Optional, currently unused in the redesign:)
+   services.webp <- https://i0.wp.com/forensicpsychfl.com/wp-content/uploads/2025/11/Whisk_6902d946ccf64f3be97474fef34a586fdr.webp?resize=1024%2C559&ssl=1
+   artboard.jpg  <- https://i0.wp.com/forensicpsychfl.com/wp-content/uploads/2023/12/artboard-8800.jpg?fit=1000%2C673&ssl=1
+
+Blog featured image:
+   risk-gap.jpg <- https://i0.wp.com/forensicpsychfl.com/wp-content/uploads/2025/10/Violence-Risk-Reduction-Prevention-ACT-2.jpg?resize=1200%2C630&ssl=1
