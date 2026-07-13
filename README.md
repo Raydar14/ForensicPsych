@@ -83,4 +83,3 @@ Your **Forensic Mindz Blog** is included:
 3. Add its URL to `sitemap.xml`.
 
 That's the whole pattern — no build step, no database.
-"# ForensicPsych" 
