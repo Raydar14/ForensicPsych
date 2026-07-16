@@ -4,15 +4,15 @@
    ============================================================ */
 
 :root {
-  /* Color — a cool "case-file on a desk" palette, navy ink + restrained brass */
+  /* Color — a cool "case-file on a desk" palette, navy ink + restrained oxblood */
   --paper:        #e7eaef;
   --surface:      #ffffff;
   --surface-2:    #f2f4f7;
   --ink:          #15243b;
   --ink-soft:     #43526a;
   --muted:        #6c7889;
-  --brass:        #8f6c3c;
-  --brass-bright: #b08b54;
+  --brass:        #7a1f2b;
+  --brass-bright: #a63446;
   --line:         #cdd4de;
   --line-soft:    #e1e6ec;
   --ink-deep:     #11202f;
