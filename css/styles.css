@@ -126,6 +126,7 @@ p { margin: 0 0 1rem; }
   background: var(--brass);
 }
 .nav .btn-sm { margin-left: 0.25rem; }
+.nav a.btn-brass, .nav a.btn-brass:hover { color: #fff; }
 
 /* ============================================================
    Buttons
