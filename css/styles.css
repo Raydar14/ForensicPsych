@@ -59,16 +59,6 @@ p { margin: 0 0 1rem; }
   text-transform: uppercase;
   color: var(--brass);
   margin: 0 0 1.25rem;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.6rem;
-}
-.eyebrow::before {
-  content: "";
-  width: 1.6rem;
-  height: 1px;
-  background: var(--brass);
-  display: inline-block;
 }
 
 /* ============================================================
@@ -273,7 +263,6 @@ p { margin: 0 0 1rem; }
    ============================================================ */
 .credentials { background: var(--ink-deep); color: #e9edf2; }
 .credentials .eyebrow { color: var(--brass-bright); }
-.credentials .eyebrow::before { background: var(--brass-bright); }
 .credentials h2 { color: #fff; font-size: clamp(1.8rem, 3.5vw, 2.6rem); max-width: 22ch; margin-bottom: clamp(2rem, 4vw, 3rem); }
 .cred-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1.5rem, 3vw, 2.5rem); }
 .cred {
