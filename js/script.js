@@ -1,5 +1,5 @@
 /* ============================================================
-   Powers of Forensic Minds — shared script
+   Powers of Forensic Minds shared script
    Injects the header + footer on every page and handles
    small interactions (active nav, scroll reveal).
    ============================================================ */
@@ -11,7 +11,7 @@
   var SITE = {
     brand: "Powers of Forensic Minds",
     brandSub: "Forensic Psychology",
-    // Live logo from your current site's CDN — works immediately.
+    // Live logo from your current site's CDN, works immediately.
     // To fully cut ties with WordPress, download it to images/logo.jpg
     // and change this line to "images/logo.jpg" (see README).
     logo: "https://i0.wp.com/forensicpsychfl.com/wp-content/uploads/2023/12/cropped-fm-192-small-logo-head-only.jpg?fit=141%2C152&ssl=1",
@@ -31,7 +31,7 @@
   /* ---------- Header ---------- */
   var header =
     '<div class="wrap"><div class="bar">' +
-      '<a class="brand" href="index.html" aria-label="' + SITE.brand + ' — home">' +
+      '<a class="brand" href="index.html" aria-label="' + SITE.brand + ' home">' +
         '<img src="' + SITE.logo + '" alt="" width="34" height="37">' +
         '<span class="brand-name">' + SITE.brand +
           '<small>' + SITE.brandSub + '</small>' +
