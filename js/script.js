@@ -56,7 +56,7 @@
             '<img src="' + SITE.logo + '" alt="" width="34" height="37">' +
             '<span class="brand-name">' + SITE.brand + '</span>' +
           '</a>' +
-          '<p>Experienced forensic licensed psychologist providing services across Florida and most other states covered by PsyPACT.</p>' +
+          '<p>Experienced licensed forensic psychologist providing services across Florida and most other PSYPACT states.</p>' +
         '</div>' +
         '<div>' +
           '<h4>Office</h4>' +
